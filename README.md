@@ -22,9 +22,12 @@ Mi enfoque de trabajo combina el uso de buenas prácticas de programación con l
 
 ### Tecnologías que uso
 
-<img width="240" height="240" src="https://img.icons8.com/color/240/microsoft-sql-server.png" alt="microsoft-sql-server" title="Sql Server" /> <img width="240" height="240" src="https://img.icons8.com/color-glass/240/bootstrap.png" alt="bootstrap" title="Bootstrap" /> <img width="240" height="240" src="https://img.icons8.com/color/240/visual-studio--v2.png" alt="visual-studio--v2" title="Visual Studio" /> <img width="240" height="240" src="https://github.com/dotnet/efcore/raw/main/logo/ef-logo.png" alt="EF Core logo" title="Entity Framework" /><img width="240" height="240" src="https://img.icons8.com/color/240/net-framework.png" alt="net-framework" title="Net Core" />
+<img width="120" height="120" src="https://img.icons8.com/color/240/microsoft-sql-server.png" alt="microsoft-sql-server" title="Sql Server" /> <img width="120" height="120" src="https://img.icons8.com/color-glass/240/bootstrap.png" alt="bootstrap" title="Bootstrap" /> <img width="120" height="120" src="https://img.icons8.com/color/240/visual-studio--v2.png" alt="visual-studio--v2" title="Visual Studio" /> <img width="120" height="120" src="https://github.com/dotnet/efcore/raw/main/logo/ef-logo.png" alt="EF Core logo" title="Entity Framework" /><img width="120" height="120" src="https://img.icons8.com/color/240/net-framework.png" alt="net-framework" title="Net Core" />
 
-
+### Proyectos
+Para ver algunos de mis proyectos se pueden ver en la seccion anclado (pinned) en esta misma pagina, o si resulta mas comodo, accediendo desde los siguientes enlaces:
+- <a  href="https://github.com/SaulDavid1998/AppPeliculas.git">Aplicacion web de peliculas</a>
+- <a  href="https://github.com/SaulDavid1998/AppTareasPorHacer.git">Aplicacion web de control de tareas</a>
 ### Curriculum
-Si desea ver mi curriculum puede hacer click en el siguiente enlace: <a target="_blank" href="https://drive.google.com/file/d/1HZT31lIBnzCQaGJYHRkJMrO5-viBTg0J/view?usp=drive_link">Mi curriculum</a>
+Si desea ver mi curriculum puede hacer click en el siguiente enlace: <a  href="https://drive.google.com/file/d/1HZT31lIBnzCQaGJYHRkJMrO5-viBTg0J/view?usp=drive_link">Mi curriculum</a>
 
