@@ -30,8 +30,8 @@ Mi enfoque de trabajo combina el uso de buenas prácticas de programación con l
 ### Proyectos
 Para ver algunos de mis proyectos se pueden ver en la seccion anclado (pinned) en esta misma pagina, o si resulta mas comodo, accediendo desde los siguientes enlaces:
 - <a  href="https://github.com/SaulDavid1998/AppPeliculas.git">Aplicacion web de peliculas</a>
-- <a  href="https://github.com/SaulDavid1998/AppTareasPorHacer.git">Aplicacion web de control de tareas</a>
 - <a href="https://github.com/SaulDavid1998/APIBiblioteca">API de Biblioteca</a>
+- <a href="https://github.com/SaulDavid1998/PaisesApp"> Aplicacion web de paises (MVC + API)</a>
 
 ---
 
