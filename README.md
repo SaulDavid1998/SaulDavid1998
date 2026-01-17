@@ -29,12 +29,12 @@ Mi enfoque de trabajo combina el uso de buenas prácticas de programación con l
 
 ### Proyectos
 Para ver algunos de mis proyectos se pueden ver en la seccion anclado (pinned) en esta misma pagina, o si resulta mas comodo, accediendo desde los siguientes enlaces:
-- <a  href="https://github.com/SaulDavid1998/AppPeliculas.git">Aplicacion web de peliculas</a>
-- <a href="https://github.com/SaulDavid1998/APIBiblioteca">API de Biblioteca</a>
-- <a href="https://github.com/SaulDavid1998/PaisesApp"> Aplicacion web de paises (MVC + API)</a>
+- <a target="_blank" href="https://github.com/SaulDavid1998/AppPeliculas.git">Aplicacion web de peliculas</a>
+- <a target="_blank" href="https://github.com/SaulDavid1998/APIBiblioteca">API de Biblioteca</a>
+- <a target="_blank" href="https://github.com/SaulDavid1998/PaisesApp"> Aplicacion web de paises (MVC + API)</a>
 
 ---
 
 ### Curriculum
-Si desea ver mi curriculum puede hacer click en el siguiente enlace: <a  href="https://drive.google.com/file/d/1HZT31lIBnzCQaGJYHRkJMrO5-viBTg0J/view?usp=drive_link">Mi curriculum</a>
+Si desea ver mi curriculum puede hacer click en el siguiente enlace: <a target="_blank" href="https://drive.google.com/file/d/1HZT31lIBnzCQaGJYHRkJMrO5-viBTg0J/view?usp=drive_link">Mi curriculum</a>
 
