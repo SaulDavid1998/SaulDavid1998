@@ -32,6 +32,7 @@ Para ver algunos de mis proyectos se pueden ver en la seccion anclado (pinned) e
 - <a target="_blank" href="https://github.com/SaulDavid1998/AppPeliculas.git">Aplicacion web de peliculas</a>
 - <a target="_blank" href="https://github.com/SaulDavid1998/APIBiblioteca">API de Biblioteca</a>
 - <a target="_blank" href="https://github.com/SaulDavid1998/PaisesApp"> Aplicacion web de paises (MVC + API)</a>
+- <a target="_blank" href="https://github.com/SaulDavid1998/PeliculasApp"> Aplicacion web de peliculas (MVC + API)</a>
 
 ---
 
